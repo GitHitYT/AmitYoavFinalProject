@@ -7,6 +7,6 @@
     <title>Guru Success Page</title>
     </head>
     <body>
-               <a><b>Welcome User!!!!</b></a>
+               <a><b>Welcome User!!!! :)</b></a>
     </body>
     </html>
