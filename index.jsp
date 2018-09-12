@@ -4,10 +4,10 @@
     <html>
     <head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-    <title>Guru Registration Form</title>
+    <title>Amit&Yoav Registration Form</title>
     </head>
     <body>
-    <h1>Guru Register Form</h1>
+    <h1>Amit&Yoav Register Form</h1>
     <form action="Register_2.jsp" method="post">
     			<table style="with: 50%">
     				<tr>
