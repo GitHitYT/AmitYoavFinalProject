@@ -8,7 +8,7 @@
     </head>
     <body>
     <h1>Amit&Yoav Register Form</h1>
-    <form action="Register_2.jsp" method="post">
+    <form action="https://www.walla.co.il/" method="post">
     			<table style="with: 50%">
     				<tr>
     					<td>First Name</td>
